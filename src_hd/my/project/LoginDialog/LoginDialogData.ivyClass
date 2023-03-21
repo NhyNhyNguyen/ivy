@@ -1,0 +1,4 @@
+LoginDialogData #class
+my.project.LoginDialog #namespace
+data my.project.Data #field
+data PERSISTENT #fieldModifier

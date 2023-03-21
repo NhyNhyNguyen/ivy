@@ -1,0 +1,8 @@
+LoginData #class
+my.project #namespace
+username String #field
+username PERSISTENT #fieldModifier
+password String #field
+password PERSISTENT #fieldModifier
+errorCode Number #field
+errorCode PERSISTENT #fieldModifier
